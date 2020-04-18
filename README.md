@@ -1,2 +1,2 @@
 # HTML-CSS-JAVASCRIPT-FOR-WEB-DEVELOPER
-all assignments
+module 2 assignment
